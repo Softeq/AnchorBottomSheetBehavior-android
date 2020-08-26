@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A547C1AC-21EC-46F0-A54A-4EE13D9DDF5C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample" expanded="True">
+            <Node name="Sample" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AnchorBottomSheetBehaviorBindings PreferredExecutionTarget="Android.Pixel_2_API_29" />
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="Android.Pixel_2_API_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

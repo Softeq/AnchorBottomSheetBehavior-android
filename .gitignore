@@ -1,0 +1,69 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Autosave files
+*~
+
+# build
+[Oo]bj/
+[Bb]in/
+packages/
+TestResults/
+
+# globs
+sources/Makefile.in
+*.DS_Store
+*.sln.cache
+*.suo
+*.cache
+*.pidb
+*.userprefs
+*.usertasks
+sources/config.log
+sources/config.make
+sources/config.status
+sources/aclocal.m4
+sources/install-sh
+sources/autom4te.cache/
+*.user
+*.tar.gz
+sources/tarballs/
+sources/test-results/
+sources/Thumbs.db
+sources/.sonarqube/
+sources/.scannerwork/
+sources/.vs/
+*.idea/
+
+# Mac bundle stuff
+*.dmg
+*.app
+
+# resharper
+*_Resharper.*
+*.Resharper
+
+# dotCover
+*.dotCover
+
+# ignore Xamarin.Android Resource.Designer.cs files
+**/*.Droid/**/[Rr]esource.[Dd]esigner.cs
+**/*.Android/**/[Rr]esource.[Dd]esigner.cs
+**/Android/**/[Rr]esource.[Dd]esigner.cs
+**/Droid/**/[Rr]esource.[Dd]esigner.cs
+
+# Mono auto generated files
+mono_crash.*
+
