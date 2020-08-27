@@ -4,16 +4,19 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample" expanded="True">
-            <Node name="Sample" selected="True" />
+            <Node name="Sample" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.AnchorBottomSheetBehaviorBindings PreferredExecutionTarget="Android.Pixel_2_API_29" />
   <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="Android.Pixel_2_API_29" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
