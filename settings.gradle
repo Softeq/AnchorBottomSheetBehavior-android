@@ -1,3 +1,0 @@
-include ':library'
-include ':sample'
-rootProject.name = "My Application"

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-android</TargetFramework>
+    <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+
+    <!-- Assembly & NuGet Info -->
+    <Title>AnchorBottomSheetBehavior for Xamarin.Android</Title>
+    <Description>Xamarin android binding library of AnchorBottomSheetBehavior.</Description>
+    <Company>Softeq Development Corporation</Company>
+    <Copyright>Copyright © 2022 Softeq Development Corporation</Copyright>
+    <Version>1.0.0.2</Version>
+    <Authors>Softeq Development Corp.</Authors>
+    <Owners>Softeq Development Corp.</Owners>
+    <PackageProjectUrl>https://github.com/Softeq/AnchorBottomSheetBehavior-android</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageTags>bottom-sheet;android;xamarin;binding;softeq;library</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReleaseNotes>Migration to .NET6</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../LICENSE" Visible="False" Pack="true" PackagePath="" />
+    <None Include="../README.md" Visible="False" Pack="true" PackagePath="" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.AndroidX.ViewPager2" Version="1.0.0.17" />
+    <PackageReference Include="Xamarin.Google.Android.Material" Version="1.4.0.6" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnchorBottomSheetBehaviorBindings", "src\AnchorBottomSheetBehaviorBindings.csproj", "{77A280D0-AA99-4249-87BF-1059EE3C0504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnchorBottomSheetBehaviorSamples", "samples\AnchorBottomSheetBehaviorSamples.csproj", "{A547C1AC-21EC-46F0-A54A-4EE13D9DDF5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A280D0-AA99-4249-87BF-1059EE3C0504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A280D0-AA99-4249-87BF-1059EE3C0504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A280D0-AA99-4249-87BF-1059EE3C0504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A280D0-AA99-4249-87BF-1059EE3C0504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A547C1AC-21EC-46F0-A54A-4EE13D9DDF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A547C1AC-21EC-46F0-A54A-4EE13D9DDF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A547C1AC-21EC-46F0-A54A-4EE13D9DDF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A547C1AC-21EC-46F0-A54A-4EE13D9DDF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
